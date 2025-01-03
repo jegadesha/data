@@ -1,0 +1,44 @@
+[
+    {
+        "order_number": "ORD123456",
+        "article_number": "ART987654",
+        "color": "Red",
+        "gender": "Unisex",
+        "shoe_type": "Sneakers",
+        "order_pairs": 100,
+        "oef_number": "OEF001",
+        "customer": "John Doe",
+        "size_type": "US",
+        "style": "Sport",
+        "fit": "Regular",
+        "season": "Summer",
+        "delivery_date": "2024-10-15",
+        "sizes_quantities": [
+            {"size": "8", "quantity": 30},
+            {"size": "9", "quantity": 40},
+            {"size": "10", "quantity": 30}
+        ]
+    },
+    {
+        "order_number": "ORD654321",
+        "article_number": "ART123456",
+        "color": "Blue",
+        "gender": "Men",
+        "shoe_type": "Boots",
+        "order_pairs": 50,
+        "oef_number": "OEF002",
+        "customer": "Jane Smith",
+        "size_type": "EU",
+        "style": "Casual",
+        "fit": "Slim",
+        "season": "Winter",
+        "delivery_date": "2024-11-01",
+        "sizes_quantities": [
+            {"size": "42", "quantity": 20},
+            {"size": "43", "quantity": 15},
+            {"size": "44", "quantity": 15}
+        ]
+    }
+    
+    
+]
